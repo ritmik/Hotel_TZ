@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Hotel TZ</string>
+    <string name="no_data">Ошибка связи, попробуйте зайти в приложение позже.</string>
+    <string name="action_sort_by_len">Сортировать по расстоянию</string>
+    <string name="action_sort_by_count">Сортировать по комнатам</string>
+</resources>
